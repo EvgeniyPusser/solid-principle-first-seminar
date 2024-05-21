@@ -16,7 +16,7 @@ public class User{
         persister.save();
     }
 
-    public void report(){
-        System.out.println("Report for user: " + name);
-    }
+//    public void report(){
+//        System.out.println("Report for user: " + name);
+//    }
 }
